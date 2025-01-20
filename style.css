@@ -1,0 +1,28 @@
+h1 {
+    background-color: rgb(128, 181, 181);
+    border: 3px solid red;
+    border-radius: 35px;
+}
+
+.anm {
+    color: red;
+}
+
+.btn {
+    background-color: darkcyan;
+    color: white;
+    font-size: 22px;
+    width: 250px;
+    height: 40px;
+}
+
+table,
+tr,
+td,
+th {
+
+    height: 30px;
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
